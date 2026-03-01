@@ -1,0 +1,10 @@
+package oops.levlel2;
+
+public class FanRunner {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
